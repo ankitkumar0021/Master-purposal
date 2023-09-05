@@ -2,3 +2,13 @@
     background-color: rgb(61, 124, 140);; /* Change to your desired color */
     color: #fff; /* Change text color as needed */
 }
+.criuse-content {
+    width: 1000px;
+    margin-left: 63px;
+    align-items: center;
+}
+.ferry-content {
+    width: 1000px;
+    margin-left: 63px;
+    align-items: center;
+}
